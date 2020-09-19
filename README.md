@@ -20,7 +20,7 @@ My goal is to make a fully functional and easy to use linux shell implemented in
 2) Have basic understaning in C
 
 ### Development
-1) Fork this repo
+1) Fork and clone this repo
 2) Run:
 
 	`gcc shell.c -o run`
